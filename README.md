@@ -1,4 +1,4 @@
-# hideo54's poem
+# poems
 
 ## 概要
 hideoの詩集
